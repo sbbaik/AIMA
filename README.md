@@ -3,5 +3,5 @@
 ㅇ 참여자 깃헙
   - 박수* <https://github.com/99geodetic/AIMA/>
   - 박훈* <https://github.com/znrks02/AIMA>
-  - 안주* <https://github.com/99geodetic/AIMA/>
+  - 안주* <https://github.com/anjubbro/AIAJ>
   - 장우* <https://github.com/dnwlse/woojin>
